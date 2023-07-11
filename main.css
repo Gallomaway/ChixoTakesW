@@ -1,0 +1,13 @@
+html { 
+    font-size: 30px;
+ }
+body { 
+    background-color:black;
+    color: white;
+
+}
+p  { color: yellow;}
+h2 {  color: yellow;}
+h3 { color: chartreuse;}
+h4 { color: red ;  
+    size: 10px;}
